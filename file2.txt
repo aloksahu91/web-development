@@ -1,2 +1,5 @@
 alok
+<<<<<<< HEAD
 sahu
+=======
+>>>>>>> newbranch
